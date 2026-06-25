@@ -22,7 +22,7 @@ from sklearn.metrics import r2_score
 # LOAD DATASET
 # =========================
 
-df = pd.read_csv("Advertising.csv")
+df = pd.read_csv("Advertising_dataset.csv")
 
 print("=" * 60)
 print("SALES PREDICTION PROJECT")
