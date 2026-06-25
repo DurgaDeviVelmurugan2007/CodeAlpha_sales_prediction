@@ -1,4 +1,8 @@
-Sales Prediction using Python
+# CodeAlpha_tasks
+CodeAlpha Project
+# CodeAlpha_unemployment_analysis
+
+SALES PREDICTION USING PYTHON
 
 Project Overview
 
